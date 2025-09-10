@@ -8,6 +8,7 @@ This app evaluates resumes (PDFs) against job descriptions and provides:
 - 📊 ATS percentage match  
 - 🔑 Missing keywords & improvement suggestions  
 
+![ATS Tracking System Screenshot](https://github.com/Bilal11123/ATS_System/blob/main/docs/screenshot.jpg)
 ---
 
 ## 🚀 Features
